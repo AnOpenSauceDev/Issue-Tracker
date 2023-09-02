@@ -4,3 +4,6 @@ if you are trying to report [something with **ONE** of my **MAJOR** mods, please
 
 ## Faster Random
 if you have anything related to Faster Random, whether that being your own release of it, porting it, etc, please make an issue here.
+
+> [!NOTE]  
+> test
